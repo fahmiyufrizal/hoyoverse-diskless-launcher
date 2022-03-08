@@ -1,0 +1,1 @@
+# hoyoverse-diskless-launcher
