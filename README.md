@@ -9,7 +9,11 @@ Hoyoverse Hybrid Diskless Launcher - Ditulis menggunakan Notepad++ - Menggunakan
 
 ## Fungsi
 
-Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/settings Honkai Impact 3 tidak terdownload berulang-kali di client.
+Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/settings Honkai Impact 3rd tidak terdownload berulang-kali di client.
+
+## CATATAN
+
+Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Honkai_Diskless_Legacy.exe. Namun, legacy version hanya untuk mendukung Honkai Impact 3rd saja agar Honkai Impact 3rd bisa dijalankan saja tanpa ada fitur auto-adjust game path. Sangat disarankan untuk up ke Windows 10/11.
 
 ## Fitur
 
@@ -20,12 +24,12 @@ Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/s
 
 ## Supported Games
 
-- Honkai Impact 3
+- Honkai Impact 3rd
 - Genshin Impact
 
 ## Instalasi dan cara menggunakan
 
-Cukup letakkan Hoyoverse_Diskless_Hybrid.exe di dalam folder Honkai Impact 3/Genshin Impact dan jalankan
+Cukup letakkan Hoyoverse_Diskless_Hybrid.exe/Honkai_Diskless_Legacy.exe (bila menggunakan Windows 7) di dalam folder Honkai Impact 3rd/Genshin Impact dan jalankan
 
 ## Terimakasih Kepada
 
