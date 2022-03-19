@@ -9,14 +9,14 @@ Hoyoverse Hybrid Diskless Launcher - Ditulis menggunakan Notepad++ - Menggunakan
 
 ## Fungsi
 
-Melakukan symlink otomatis agar path bisa disesuaikan dan config (terutama config Honkai Impact 3) tidak terdownload berulang-kali di client.
+Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/settings Honkai Impact 3 tidak terdownload berulang-kali di client.
 
 ## Fitur
 
 - Ready-to-go alias cesplenk. Langsung pakai!
 - Hybrid-Launcher (works well di HI3 maupun GI)
 - Auto-adjust game path (buat yang gamedisknya beda letter)
-- Auto-symlink config path (berguna buat HI3 agar tidak download ulang)
+- Auto-symlink config path (berguna buat HI3 agar tidak download config/settings ulang)
 
 ## Supported Games
 
