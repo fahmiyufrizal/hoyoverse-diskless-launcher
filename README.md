@@ -29,5 +29,6 @@ Cukup letakkan Hoyoverse_Diskless_Hybrid.exe di dalam folder Honkai Impact 3/Gen
 
 ## Terimakasih Kepada
 
+- Allah SWT
 - Hoyoverse / miHoYo
 - Semua yang telah memanfaatkan project dan memberikan feedback ^^
