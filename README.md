@@ -1,7 +1,7 @@
 [![N|Solid](https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2022/02/HoyoVerse.jpg)](#)
-# Hoyoverse Hybrid Diskless Launcher
+# Hoyoverse Hybrid Diskless/Virtual Launcher
 
-Hoyoverse Hybrid Diskless Launcher - Ditulis menggunakan Notepad++ - Menggunakan Python
+Hoyoverse Hybrid Diskless/Virtual Launcher - Ditulis menggunakan Notepad++ - Menggunakan Python
 
 ## English please?
 
