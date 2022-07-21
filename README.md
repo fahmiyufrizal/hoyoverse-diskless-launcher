@@ -13,7 +13,9 @@ Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/s
 
 ## CATATAN
 
-Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Honkai_Diskless_Legacy.exe. Namun, legacy version hanya untuk mendukung Honkai Impact 3rd saja agar Honkai Impact 3rd bisa dijalankan saja tanpa ada fitur auto-adjust game path. Sangat disarankan untuk up ke Windows 10/11.
+~Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Honkai_Diskless_Legacy.exe. Namun, legacy version hanya untuk mendukung Honkai Impact 3rd saja agar Honkai Impact 3rd bisa dijalankan saja tanpa ada fitur auto-adjust game path. Sangat disarankan untuk up ke Windows 10/11.~
+
+Tested di Windows 7 RedShift
 
 ## Fitur
 
