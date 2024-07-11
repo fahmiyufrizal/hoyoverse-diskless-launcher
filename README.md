@@ -1,22 +1,17 @@
 [![N|Solid](https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2022/02/HoyoVerse.jpg)](#)
-# Hoyoverse Hybrid Diskless/Virtual Launcher
+# Hoyoverse Hybrid Diskless/Virtual Launcher (Discontinued)
 
 Hoyoverse Hybrid Diskless/Virtual Launcher - Ditulis menggunakan Notepad++ - Menggunakan Python
 
-## English please?
+## NOTE
 
-- For English Instruction, check [README-eng.md](#) (Coming Soon)
+- Untuk Honkai Star Rail, Genshin Impact, dan ZZZ, gunakan launcher HoYoPlay di repositori HoYoPlay. Launcher satu-satunya yang masih disupport adalah Honkai Impact 3!
 
 ## Fungsi
 
 - Melakukan symlink otomatis agar path bisa disesuaikan otomatis terutama config/settings Honkai Impact 3rd tidak terdownload berulang-kali di client.
 - Melakukan Auto Unload untuk file config Honkai Impact 3
 
-## CATATAN
-
-~Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Honkai_Diskless_Legacy.exe. Namun, legacy version hanya untuk mendukung Honkai Impact 3rd saja agar Honkai Impact 3rd bisa dijalankan saja tanpa ada fitur auto-adjust game path. Sangat disarankan untuk up ke Windows 10/11.~
-
-Tested di Windows 7 RedShift
 
 ## Fitur
 
@@ -29,8 +24,8 @@ Tested di Windows 7 RedShift
 ## Supported Games
 
 - Honkai Impact 3rd
-- Genshin Impact
-- Honkai StarRail
+- ~Genshin Impact~
+- ~Honkai StarRail~
 
 ## Instalasi dan cara menggunakan
 
