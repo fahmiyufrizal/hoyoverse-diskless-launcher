@@ -5,7 +5,7 @@ Hoyoverse Hybrid Diskless/Virtual Launcher - Ditulis menggunakan Notepad++ - Men
 
 ## NOTE
 
-- Launcher ini sudah discontinued, gunakan launcher HoYoPlay di repositori HoYoPlay
+- Launcher ini sudah discontinued, gunakan launcher HoYoPlay di repositori HoYoPlay https://github.com/fahmiyufrizal/hoyoplay
 
 ## Terimakasih Kepada
 
